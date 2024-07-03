@@ -14,5 +14,5 @@ Note:
 .
 .
 .
-.
+</br>
 ![TypeScript Cheetsheet](typescript.jpeg)
