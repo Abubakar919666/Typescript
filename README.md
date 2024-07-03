@@ -9,6 +9,8 @@ Note:
 
 ### [Watch Learn TypeScript – Full Video Tutorial by freeCodeCamp.org](https://www.youtube.com/watch?v=30LWjhZzg50) 
 
-![TypeScript Cheetsheet](typescript.jpeg)
-
 [TypeScript Tips](https://www.totaltypescript.com/tips)
+
+
+
+![TypeScript Cheetsheet](typescript.jpeg)
