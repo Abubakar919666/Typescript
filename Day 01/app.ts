@@ -7,3 +7,7 @@ let message = "Hello World";
 console.log(message);
 
 
+// enums 
+
+enum Color {Red, Green, Blue};//starts with 0
+var c: Color = Color.Green;
