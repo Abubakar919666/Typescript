@@ -12,7 +12,7 @@ Note:
 [TypeScript Tips](https://www.totaltypescript.com/tips)
  
 # Typescript Main Topics
-    TS Compiler P
+    TS Compiler
     Type Annotations
     Type Inference
     Type Aliases

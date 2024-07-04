@@ -6,6 +6,12 @@ console.log(user);
 let message = "Hello World";
 console.log(message);
 
+// type annotation
+
+let age: number = 32; // number variable
+let manName: string = "John";// string variable
+let isUpdated: boolean = true;// Boolean variable
+
 
 // enums 
 
