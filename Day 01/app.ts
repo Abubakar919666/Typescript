@@ -7,14 +7,15 @@ num = 7;
 let isOff: boolean = true;
 isOff = false;
 
-function greetUser(userName: string): void {
-    console.log(`Hello ${userName}`);
+function greetUser(user: string): void {
+    console.log(`Hello ${user}`);
 }
 greetUser(user);
 
-function makeGreeting(userName: string, msg: string): string{
-    return `${msg} ${userName}`;
+let msg: string = "how are you ?";
+function makeGreeting(user: string, msg: string): string{
+    return `${msg} ${user}`;
 }
-makeGreeting(user, 'How are you');
+makeGreeting(user , msg);
 
 console.log(user, num, isOff);
