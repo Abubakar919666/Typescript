@@ -10,21 +10,19 @@ Note:
 [Watch Learn TypeScript – Full Video Tutorial by freeCodeCamp.org](https://www.youtube.com/watch?v=30LWjhZzg50) 
 
 [TypeScript Tips](https://www.totaltypescript.com/tips)
- 
-# Typescript Main Topics
-    TS Compiler
-    Type Annotations
-    Type Inference
-    Type Aliases
-    Union Types
-    Interfaces
-    Type Aliases vs Interface
-    Generics
-    Enums
-    Tuples
-    Type Guards
+
+ [ Typescript RoadMap: ](https://roadmap.sh/typescript)  
+    
 
 [For the latest docs](https://www.typescriptlang.org/docs/)
+
+
+# The main benefits of using TypeScript include:
+
+1. Type Safety
+2. Improved Tooling
+3. Improved Maintainability
+4. Backwards Compatibility
 
 
 Hello World Steps:
